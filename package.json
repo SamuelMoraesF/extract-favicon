@@ -14,7 +14,7 @@
     },
     "author": {
         "name": "Samuel Moraes",
-        "email": "samuel@samuelmoraes.com",
+        "email": "samuel@samuelmoraes.com"
     },
     "main": "./index",
     "scripts": {
